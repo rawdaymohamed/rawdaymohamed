@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **React, Vue.js and the MERN Stack**
 
-- 📫 How to reach me **rawdayasserg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
