@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Socialize](https://github.com/rawda-yasser/Socialize/)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [rawda-yasser.github.io/portfolio/](rawda-yasser.github.io/portfolio/)
 
