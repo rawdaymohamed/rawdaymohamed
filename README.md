@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rawda Yasser</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Socialize](https://github.com/rawdaymohamed/Socialize/)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [rawdaymohamed.github.io/portfolio/](rawdaymohamed.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [rawdaymohamed.github.io/portfolio/](https://rawdaymohamed.github.io/portfolio/)
 
 - 📝 I regularly write articles on [linkedin.com/in/rawdaymohamed/](linkedin.com/in/rawdaymohamed/)
 
