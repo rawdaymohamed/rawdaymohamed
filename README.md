@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [rawdaymohamed.github.io/portfolio/](https://rawdaymohamed.github.io/portfolio/)
 
 - 📝 I regularly write articles on [linkedin.com/in/rawdaymohamed/](linkedin.com/in/rawdaymohamed/)
 
-- 💬 Ask me about **React, Vue.js and the MERN Stack**
+- 💬 Ask me about **React and the MERN Stack**
 
 
 <h3 align="left">Connect with me:</h3>
