@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rawda</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 This is my portfolio [rawdaymohamed.github.io/portfolio/](https://rawdaymohamed.github.io/portfolio/)
 
 - 📝 I regularly write articles on [linkedin.com/in/rawdaymohamed/](linkedin.com/in/rawdaymohamed/)
