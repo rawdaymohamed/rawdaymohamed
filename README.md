@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [linkedin.com/in/rawdaymohamed/](linkedin.com/in/rawdaymohamed/)
 
-- 💬 Ask me about **React and the MERN Stack**
+- 💬 Ask me about Next.js and the MERN Stack**
 
 
 <h3 align="left">Connect with me:</h3>
